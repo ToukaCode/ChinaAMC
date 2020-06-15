@@ -1,0 +1,10 @@
+{
+    "name": "touka-code/china-amc",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ToukaCode\\": "src"
+        }
+    }
+}
